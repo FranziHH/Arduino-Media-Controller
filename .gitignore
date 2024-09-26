@@ -1,0 +1,5 @@
+Release/*
+.liesmich.txt
+.pio
+.vscode/
+.ino.cpp
